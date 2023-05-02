@@ -1,0 +1,9 @@
+Project   : Smart-Coop
+CODING    : Slave Controller (untuk sensor)
+Hardware  : Arduino Nano V3 328p
+
+Versi     : prototipe ke-3
+Tahap     : pengujian sensor
+
+Note:
+belum di refactor dan keterangan belum lengkap
