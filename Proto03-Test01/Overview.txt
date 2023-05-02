@@ -1,0 +1,4 @@
+Keterangan Folder:
+
+ESP32-MASTERCODE                    Main Controller Code
+NANO-SLAVECODE                      Slave Controller Code
