@@ -1,0 +1,9 @@
+Project   : Smart-Coop
+CODING    : Master Controller
+Hardware  : ESP32 devkit v1
+
+Versi     : prototipe ke-3
+Tahap     : pengujian sensor
+
+Note:
+belum di refactor dan keterangan belum lengkap
