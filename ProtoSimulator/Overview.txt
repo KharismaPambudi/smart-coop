@@ -1,0 +1,4 @@
+Berisi Coding Terakhir:
+1. SLAVE CONTROLLER untuk SENSOR
+2. MASTER ESP32 (full running and tested)
+3. MASTER NANO yang harus diedit lebih Lanjut
